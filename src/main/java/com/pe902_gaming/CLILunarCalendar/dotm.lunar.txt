@@ -1,0 +1,12 @@
+Tiana     : 24
+Anait     : 32
+Star Belt : 28
+
+$ mvn compile
+$ java -cp target/classes com.pe902_gaming.CLILunarCalendar.App
+
+$ mvn install
+$ cp target\my-CLILunarCalendar-1.0-SNAPSHOT.jar c:\Users\MichelV69\Downloads\
+
+~/Downloads
+$ java -jar ./my-CLILunarCalendar-1.0-SNAPSHOT.jar
