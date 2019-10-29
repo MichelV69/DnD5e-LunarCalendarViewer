@@ -8,6 +8,12 @@ public class App
 {
   public static void main( String[] args )
   {
+    ReadCalendarProperties CalPropFile = new ReadCalendarProperties()
+    if (args.length > 0 ) 
+    {
+       CalPropFile.setPropertiesFileName(args[0]);
+    }
+
     // --- initial vars and objects
     String UserTextInput;
     Scanner ReadUserInput = new Scanner (System.in);
