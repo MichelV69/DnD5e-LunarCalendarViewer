@@ -1,5 +1,9 @@
 #Lunar Calendar Viewer
+
 ***For Fantasy Worlds Settings such as Dungeons & Dragons***
+
+## Current Version
+1.1.1
 
 ## Purpose
 Most fantasy settings have different skies and calendars that the the one 
