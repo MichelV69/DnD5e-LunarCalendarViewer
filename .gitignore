@@ -1,2 +1,8 @@
+#ignore
 target/*
-personal.*
+personal*.txt
+
+#do not ignore
+!target/*.jar
+
+# ----- end of file -----
